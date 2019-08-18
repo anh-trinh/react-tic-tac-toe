@@ -1,3 +1,7 @@
+Tham khảo:
+++Source game: https://reactjs.org/tutorial/tutorial.html
+++Source unit testing: https://viblo.asia/p/tim-hieu-viet-test-cho-react-app-voi-ung-dung-tic-tac-toe-E375z0xJZGW
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
